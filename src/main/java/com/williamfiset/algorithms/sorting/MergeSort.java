@@ -59,7 +59,7 @@ public class MergeSort implements InplaceSort {
   }
 
   public static void main(String[] args) {
-    int[] array = {10, 4, 6, 4, 8, -13, 2, 3};
+    int[] array = {10, 4, 6, 4, 8, -13, 2, 3,9};
     array = MergeSort.mergesort(array);
     // Prints:
     // [-13, 2, 3, 4, 4, 6, 8, 10]

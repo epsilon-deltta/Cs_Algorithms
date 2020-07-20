@@ -11,7 +11,6 @@ package com.williamfiset.algorithms.sorting;
 
 public class InsertionSort implements InplaceSort {
 
-  @Override
   public void sort(int[] values) {
     InsertionSort.insertionSort(values);
   }
