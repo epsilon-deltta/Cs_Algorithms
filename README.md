@@ -8,8 +8,8 @@
 It's for arranging algorithms.
 
 # The whole process
-[Overall_Process](https://vertte.tistory.com,"Algorithms Graph")
-[Overall process] : https://vertte.tistory.com "Go graph"
+
+[Overall_Process](https://vertte.tistory.com/entry/CSEssentialAlgorithms-%EA%B0%9C%EC%9A%94)
 
 ## sort
  
