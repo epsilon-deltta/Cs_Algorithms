@@ -3,30 +3,30 @@
 [![Build Status](https://travis-ci.org/magenta/magenta.svg?branch=master)](https://travis-ci.org/magenta/magenta)
  [![Algorithm](https://badge.fury.io/py/magenta.svg)](https://badge.fury.io/py/magenta)
 
-#Cs_Algorithms
+# Cs_Algorithms
 
 It's for arranging algorithms.
 
-#The whole process
+# The whole process
 
-##sort
+## sort
+ 
+## Search
 
-##Search
+## String match
 
-##String match
+## Geometry Algorithm
 
-##Geometry Algorithm
+## Graph Theory
 
-##Graph Theory
+## Np -problems
 
-##Np -problems
+## Paraller Algorithm
 
-##Paraller Algorithm
+## Probabilistic Algorithm
 
-##Probabilistic Algorithm
+### Monte Carlo
+### Las Veagas
 
-###Monte Carlo
-###Las Veagas
-
-##Genetic Algorithm
+## Genetic Algorithm
 
