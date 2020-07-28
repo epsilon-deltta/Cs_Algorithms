@@ -1,5 +1,6 @@
 <img src="algorithm.jpg" height="75">
-## [Q&A and Chatting](https://gitter.im/cs_algorithm/Algorithm)
+
+[Q&A and Chatting](https://gitter.im/cs_algorithm/Algorithm)
 
 [![Build Status](https://travis-ci.org/magenta/magenta.svg?branch=master)](https://travis-ci.org/magenta/magenta)
  [![Algorithm](https://badge.fury.io/py/magenta.svg)](https://badge.fury.io/py/magenta)
