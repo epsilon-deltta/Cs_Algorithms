@@ -3,7 +3,7 @@
 [Q&A and Chatting](https://gitter.im/cs_algorithm/Algorithm)
 
 [![Build Status](https://travis-ci.org/magenta/magenta.svg?branch=master)](https://travis-ci.org/magenta/magenta)
- [![Algorithm](https://badge.fury.io/py/magenta.svg)](https://badge.fury.io/py/magenta)
+ [![Algorithm](https://badge.fury.io/py/magenta.svg)](https://badge.fury.io/py/magenta) [![Join the chat at https://gitter.im/cs_algorithm/Algorithm](https://badges.gitter.im/cs_algorithm/Algorithm.svg)](https://gitter.im/cs_algorithm/Algorithm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Cs_Algorithms
 
